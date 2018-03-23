@@ -1,0 +1,9 @@
+{
+	"AppID": "Oluşturduğunuz App'in ID'si.",
+	"durum": "İlk satırdaki yazı.",
+	"aciklama": "İkinci satırdaki yazı.",
+	"buyukResimAd": "Large (Büyük) olarak seçtiğiniz resmin adı.",
+	"kucukResimAd": "Small (Küçük) olarak seçtiğiniz resmin adı.",
+	"buyukResimYazi": "Büyük resmin üzerine gelince çıkacak olan yazı.",
+	"kucukResimYazi": "Küçük resmin üzerine gelince çıkacak olan yazı."
+}

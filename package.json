@@ -1,0 +1,23 @@
+{
+  "name": "discord-rpc-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rpc.js",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlcayDmryrk/Discord-RPC-Maker.git"
+  },
+  "author": "Olcay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OlcayDmryrk/Discord-RPC-Maker/issues"
+  },
+  "homepage": "https://github.com/OlcayDmryrk/Discord-RPC-Maker#readme"
+}
