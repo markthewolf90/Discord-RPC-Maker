@@ -5,3 +5,5 @@
 ## Kurulum
 - ayarlar.json dosyasını düzenleyin.
 - baslat.bat dosyasını çalıştırın.
+## Önizleme
+![Önizleme](https://i.hizliresim.com/W7zbLP.png)
