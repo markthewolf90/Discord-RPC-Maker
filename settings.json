@@ -1,6 +1,6 @@
 {
 	"ClientID": "The Client ID of your app",
-	"title": "The title/first line of your Rich Presence",
+	"status": "The first line of your Rich Presence",
 	"description": "The description/second line of your Rich Presence",
 	"largeimagename": "The name of your large image",
 	"smallimagename": "The name of your small image",
