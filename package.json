@@ -1,7 +1,7 @@
 {
   "name": "discord-rpc-maker",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple script that allows you to create your own Rich Presence in Discord!",
   "main": "rpc.js",
   "dependencies": {
     "discord-rpc": "^3.0.0-beta.9"
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OlcayDmryrk/Discord-RPC-Maker.git"
+    "url": "git+https://github.com/markthewolf90/Discord-RPC-Maker.git"
   },
-  "author": "Olcay",
+  "author": "Olcay and markthewolf90",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OlcayDmryrk/Discord-RPC-Maker/issues"
+    "url": "https://github.com/markthewolf90/Discord-RPC-Maker/issues"
   },
-  "homepage": "https://github.com/OlcayDmryrk/Discord-RPC-Maker#readme"
+  "homepage": "https://github.com/markthewolf90/Discord-RPC-Maker#readme"
 }
