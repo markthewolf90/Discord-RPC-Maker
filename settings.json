@@ -1,0 +1,9 @@
+{
+	"ClientID": "The Client ID of your app",
+	"title": "The title/first line of your Rich Presence",
+	"description": "The description/second line of your Rich Presence",
+	"largeimagename": "The name of your large image",
+	"smallimagename": "The name of your small image",
+	"largeimagetext": "The text that appears when hovering the mouse over the large image",
+	"smallimagetext": "The text that appears when hovering the mouse over the smakk image"
+}
